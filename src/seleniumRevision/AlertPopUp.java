@@ -20,7 +20,7 @@ public class AlertPopUp {
 	    Alert alt = driver.switchTo().alert();
 	    
 	    alt.accept();
-	    
+	    alt.accept();
 
 	}
 
